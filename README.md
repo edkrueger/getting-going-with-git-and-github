@@ -16,7 +16,8 @@ Accept the Defaults for the installer
 ## Install for Mac
 
 Dowload Homebrew Package Manager with: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`  
-Run `brew install gh`  
+To install Git run `brew install git`  
+To install the GitHub CLI run `brew install gh`  
 
 
 ## Setup for Both
